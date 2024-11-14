@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-## Hi, my name's Ven and I'm an ECE Grad Student at Binghamton University. I enjoy hiking, camping, and going on road trips with my dog. 🚶‍♂️🏕️🚙🐕 {#TOP}
+## Hey, my name's Ven and I'm an ECE Grad Student at Binghamton University. I enjoy hiking, camping, and going on road trips with my dog. 🚶‍♂️🏕️🚙🐕 {#TOP}
 
 <p>&nbsp;</p>
 ---
