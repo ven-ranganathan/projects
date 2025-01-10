@@ -27,7 +27,7 @@ Ven Ranganathan
 
 ## AI/ML Autonomous RC car operated using NVIDIA Jetson Orin Nano {#nano}
 
-**05/04/25**, Project Complete
+**05/04/24**, Project Complete
 
 ECD 407 completed our senior design project and accomplished our required and stretch goals of operating a modified RC car autonomously on a track with variable throttle, and the ability to detect and avoid objects.
 
